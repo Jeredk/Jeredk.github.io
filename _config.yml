@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Cheongsol's Portpolid
+description: 포트폴리오 웹사이트 제작
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: CheongSol Kim Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: CheongSol Kim's Portpolio
+user_description: 많은 기술들이 새롭게 개발되고 있는 사회에서 저는 생각합니다. 주어진 상황에 대하여 일차원적으로 생각하지 않고, 다양한 방향으로 항상 분석하고, 더 좋은 서비스를 개발 할 수 있는 사람이 되고 사회의 변화에 빠르게 대처하고 향상된 기술들을 매사에 긍정적으로 받아 들일 수 있는 개발자가 되겠습니다.
 user_title: Software Developer
-email: anon@anon.com
+email: qpfmsktm9@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  Jeredk
 gplus_username:  lorem_ipsum
 
 # Google-analytics
